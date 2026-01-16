@@ -1,18 +1,17 @@
 # Hi there, I'm Abisha Faisal 
 
- **Second-Year BSCS Student** |  **Aspiring Software Developer**  
+ **Second-Year BSCS Student** |  **Aspiring Computer Scientist**  
  Currently learning **Data Structures, Algorithms, and Object-Oriented Programming**  
  Exploring **Java, Python, and Web Development**  
 
 ## About Me
 -  Passionate about learning and building real-world projects
 -  Interested in backend development & problem solving
--  Actively expanding my GitHub with personal and academic projects
 
 ##  Tech Stack
-**Languages:** Python, Java, C  
-**Tools:** Git, Jupyter Notebook, VS Code  
-**Concepts:** OOP, File Handling, Basic DSA  
+**Languages:** Java, C  
+**Tools:** Git, Jupyter Notebook, VS Code, Intellij  
+**Concepts:** OOP, File Handling, DSA  
 
 ## Featured Projects
 -  **Number Guessing Game** – Simple CLI-based project in Python  
